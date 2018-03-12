@@ -1,0 +1,13 @@
+{
+    "name": "yiimjs/hello",
+    "description": "an test of composer pachage.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "鞠淼",
+            "email": "miao1982528@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
