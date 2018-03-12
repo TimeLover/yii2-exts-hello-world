@@ -1,0 +1,15 @@
+{
+    "name": "yiimjs/hello-world",
+    "authors": [
+        {
+            "name": "Time_Lover",
+            "email": "jumiao@hotmail.com",
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
